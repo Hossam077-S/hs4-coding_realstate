@@ -1,3 +1,10 @@
 npx create-next-app@latest ./
 
 npm i @chakra-ui/react @emotion/react @emotion/styled axios framer-motion millify nprogress react-horizontal-scrolling-menu react-icons
+
+// add to github
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Hossam077-S/hs4-coding_realstate.git
